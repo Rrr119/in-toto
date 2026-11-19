@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid28726",
+  "B": "/home/dev/feedback/uid28726",
+  "sha": "8763be6427ca6afcebc93d85100f28791cabc8cf",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "in-toto",
+    "repo": "in-toto",
+    "sha": "8763be6427ca6afcebc93d85100f28791cabc8cf"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "in-toto",
+    "cloneUrl": "https://github.com/Rrr119/in-toto.git"
+  },
+  "at": "2026-11-19T20:37:12.023Z"
+}
